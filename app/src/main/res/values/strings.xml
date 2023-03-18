@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Telegram MotionLayout</string>
+    <string name="notifications">Notifications</string>
+    <string name="info">Info</string>
+    <string name="off">off</string>
+    <string name="the_chance">t.me/theChance101</string>
+    <string name="public_channel">public channel</string>
+    <string name="name">The chance</string>
+    <string name="files">Files</string>
+    <string name="links">Links</string>
+</resources>
